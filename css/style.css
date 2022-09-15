@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+@font-face {
+   font-family: Larsseit;
+   src: url("../fonts/Larsseit.woff2") format("woff2"),
+   url("../fonts/Larsseit.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal; 
+}
+
+@font-face {
+   font-family: Larsseit;
+   src: url("../fonts/Larsseit-Medium.woff2") format("woff2"),
+   url("../fonts/Larsseit-Medium.woff") format("woff");
+   font-display: swap;
+   font-weight: 500;
+   font-style: normal; 
+}
+
+@font-face {
+   font-family: Larsseit;
+   src: url("../fonts/Larsseit-Bold.woff2") format("woff2"),
+   url("../fonts/Larsseit-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal; 
+}
+
+@font-face {
+   font-family: Lato;
+   src: url("../fonts/Lato-Regular.woff2") format("woff2"),
+   url("../fonts/Lato-Regular.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: Lato;
+   src: url("../fonts/Lato-Bold.woff2") format("woff2"),
+   url("../fonts/Larsseit-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: Lato;
+   src: url("../fonts/Lato-Black.woff2") format("woff2"),
+   url("../fonts/Lato-Black.woff") format("woff");
+   font-display: swap;
+   font-weight: 900;
+   font-style: normal;
+}
+
+
+.header-title{
+   font-family: lato;
+   font-weight: 900;
+   color: rgb(30, 19, 18);
+}
+
+.font{
+   font-family: roboto;
+   font-weight: 400;
+}
+
+.one{
+   color: blue;
+}
+
+.two{
+   color: rgb(85, 185, 115);
+}
+
+.three{
+   color: darkorange;
+}
+
+.subtitle{
+   font-family: larsseit;
+   font-weight: 700;
+}
+
+p > span {
+   color: rgb(4, 122, 173);
+}
+   
+#history{
+   font-family: larrseit;
+   color: rgb(109, 76, 76);
+}
+
+.larrseit-normal{
+   font-weight:400 ;
+}
+
+.larrseit-medium{
+   font-weight: 500;
+}
+
+.larrseit-bold{
+   font-weight: bold;
+}
+
+#traditionaly{
+   font-family: lato;
+   color: rgb(90, 21, 154);
+}
+
+.lato-regular{
+   font-weight: 400;
+}
+
+.lato-bold{
+   font-weight: bold;
+}
+
+.lato-black{
+   font-weight: 900;
+}
+
+#interesting{
+   font-family: roboto;
+   color: rgb(47, 103, 47);
+}
+
+.roboto-four{
+   font-weight: 400;
+}
+
+.roboto-five{
+   font-weight: 500;
+}
+
+.roboto-seven{
+   font-weight: 700;
+}
+
+.roboto-nine{
+   font-weight: 900;
+}
+.footer{
+   font-family: larsseit;
+   font-weight: 700;
+   color: rgb(31, 31, 243);
+}
